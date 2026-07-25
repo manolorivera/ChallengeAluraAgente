@@ -1,0 +1,4 @@
+azure_storage==0.37.0
+langchain_community==0.4.2
+langchain_text_splitters==1.1.2
+python-dotenv==1.2.2

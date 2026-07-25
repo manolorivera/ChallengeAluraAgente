@@ -1,8 +1,8 @@
 # ChallengeAluraAgente
 
-Challenge Alura Agente | Caso : Santos Pegasus Soluciones 
+Caso : Santos Pegasus Soluciones 
 
-# Descripcion del caso : BimBam Buy
+# Descripcion
 
 Empresa de tecnología especializada en el desarrollo de software escalable bajo arquitectura de microservicios y soluciones de Inteligencia Artificial (RAG). Se destaca por sus rigurosos estándares técnicos en ingeniería back-end y front-end, garantizando excelencia operativa y seguridad en infraestructuras de nube (OCI).
 
@@ -76,10 +76,11 @@ python.exe -m pip install azure-search-documents
 
 ## Tecnologías utilizadas
 - Python 3.12+
+- langchain
 - Azure AI
-- uuid
 - pypdf
-
+- uuid
+- dotenv
 
 ## Estructura general
 ```text
