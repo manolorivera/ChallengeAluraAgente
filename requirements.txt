@@ -1,4 +1,7 @@
 azure_storage==0.37.0
+gradio==6.20.0
+langchain_azure_ai==1.2.8
 langchain_community==0.4.2
+langchain_core==1.5.1
 langchain_text_splitters==1.1.2
 python-dotenv==1.2.2

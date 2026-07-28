@@ -44,7 +44,7 @@ python.exe -m pip install --upgrade wheel
 python.exe -m pip install --upgrade packaging
 
 #Actualizamos SETUPTOOLS, la cual permite instalar las librerías
-!pip install --upgrade setuptools
+python.exe -m pip install --upgrade setuptools
 
 #Librería para enviar credenciales de manera segura
 python.exe -m pip install azure-identity
@@ -81,9 +81,11 @@ python.exe -m pip install azure-search-documents
 - pypdf
 - uuid
 - dotenv
+- gradio
 
 ## Estructura general
 ```text
+scripts/ Scripts de procesos 
 src/ Código fuente del proyecto
 data/ Documentos fuentes para la base de conocimientos
 doc/ Documentación de la evidencia del proyecto
