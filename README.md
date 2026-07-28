@@ -72,6 +72,9 @@ python.exe -m pip install pypdf
 
 #Librería para manipulación del servicio de Azure AI Search
 python.exe -m pip install azure-search-documents
+
+#Libreria Gradio para geneerar la pagina web del chatbot
+python.exe -m install gradio
 ```
 
 ## Tecnologías utilizadas
